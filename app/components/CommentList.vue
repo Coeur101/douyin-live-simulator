@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed bottom-16 left-4 w-80 h-52 pointer-events-none z-10">
+  <div class="fixed bottom-20 left-4 w-80 h-52 pointer-events-none z-10">
     <!-- 评论列表容器 -->
     <div class="relative h-full overflow-hidden">
       <!-- 评论列表 -->

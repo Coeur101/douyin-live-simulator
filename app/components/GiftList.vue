@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed bottom-72 left-4 w-80 h-28 z-10">
+  <div class="fixed bottom-72 left-4 w-80 h-30 z-10">
     <!-- 礼物列表容器 -->
     <div class="relative h-full overflow-hidden">
       <!-- 礼物消息列表 -->
